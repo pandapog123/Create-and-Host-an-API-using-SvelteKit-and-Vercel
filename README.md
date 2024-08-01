@@ -7,12 +7,8 @@
 
 ## How to host
 
-- Upload your project to **GitHub**
+- [Upload your project to **GitHub**](https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github)
 - Log into [Vercel](vercel.com) using your Github account
 - Give Vercel permission to your SvelteKit project
 - Click the **"Import"** button and import your project in Vercel
 - Click **"Deploy"** to deploy your new project
-
-## More
-
-- Check the [live version](https://vercel.com/pandapog123s-projects/create-and-host-an-api-using-svelte-kit-and-vercel/EdydaBCE8hP3FR99ELK5Rgt35SJ7)
